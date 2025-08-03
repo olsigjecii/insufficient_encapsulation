@@ -1,5 +1,5 @@
 
-# Lesson: Insufficient Encapsulation in Rust
+# Insufficient Encapsulation in Rust with Actix-Web 🦀
 
 Welcome to this lesson on Insufficient Encapsulation. We will explore how failing to properly protect data within its logical boundary can lead to serious bugs and security flaws. Using Rust and the actix-web framework, we will demonstrate how Rust's type system and privacy rules provide strong, compile-time protection against this issue.
 
